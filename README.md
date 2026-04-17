@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/attachments/1469696843779674306/1494100677583179927/Banner-Template-17_1.png?ex=69e16130&is=69e00fb0&hm=61caea528450fb88fce46119b69760fd333ec37d0cdaba1d6ef9a89212253d5e&" alt="Banner eduuhlann" width="100%">
 </p>
 
-# Eai, eu sou eduuhlann!
+# Eai, eu sou eduuhlann
 
 ### Criador Do OneFlow & Front-End Na Veia
 
@@ -21,6 +21,7 @@
 
 ### Como Me Encontrar
 
+[![Discord](https://img.shields.io/badge/Discord-eduuhlann-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/eduuuhlann)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardolannesmarinato@gmail.com)
 

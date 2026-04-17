@@ -1,4 +1,4 @@
-<p align="center">
+p align="center">
   <img src="https://cdn.discordapp.com/attachments/1469696843779674306/1494100677583179927/Banner-Template-17_1.png?ex=69e16130&is=69e00fb0&hm=61caea528450fb88fce46119b69760fd333ec37d0cdaba1d6ef9a89212253d5e&" alt="Banner eduuhlann" width="100%">
 </p>
 
@@ -7,6 +7,12 @@
 ### Criador Do OneFlow & Front-End Na Veia
 
 ---
+
+#### Acesse O OneFlow
+
+> Meu primeiro projeto oficial
+
+https://oneflowweb.vercel.app  
 
 ### Linguagens Que Domino
 
@@ -26,13 +32,6 @@
 
 ---
 
-### O Que Estou Ouvindo Agora 🎧
+### O Oue Estou Ouvindo Agora
 
 <img src="https://lanyard.cnrad.dev/api/1253816748055072820?theme=dark" alt="Meu Status">
-
----
-
-<p align="center">
-  <i>"I edit some videos, do some really crazy design and program some stuff."</i><br>
-  Se você gostou do meu perfil, sinta-se à vontade para seguir ou dar uma estrela nos repositórios!
-</p>

@@ -28,6 +28,8 @@
 
 ### O que estou ouvindo agora 🎧
 
+<img src="https://lanyard.cnrad.dev/api/1253816748055072820?theme=dark" alt="Meu Status">
+
 <!-- spotify -->
 <!-- /spotify -->
 

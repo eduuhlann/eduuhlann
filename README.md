@@ -31,6 +31,8 @@ https://oneflowweb.vercel.app
 
 ---
 
-### O Oue Estou Ouvindo Agora
+### O Que Estou Ouvindo Agora
+
+<img src="https://i.imgur.com/lTEr4PY.gif" width="260" align="right">
 
 <img src="https://lanyard.cnrad.dev/api/1253816748055072820?theme=dark" alt="Meu Status">

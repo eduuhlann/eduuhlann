@@ -26,6 +26,13 @@
 
 ---
 
+### O que estou ouvindo agora 🎧
+
+<!-- spotify -->
+<!-- /spotify -->
+
+---
+
 <p align="center">
   <i>"I edit some videos, do some really crazy design and program some stuff."</i><br>
   Se você gostou do meu perfil, sinta-se à vontade para seguir ou dar uma estrela nos repositórios!

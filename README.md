@@ -21,7 +21,6 @@
 
 ### Como Me Encontrar
 
-[![Discord](https://img.shields.io/badge/Discord-eduuhlann-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/eduuuhlann)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardolannesmarinato@gmail.com)
 
@@ -30,9 +29,6 @@
 ### O Que Estou Ouvindo Agora 🎧
 
 <img src="https://lanyard.cnrad.dev/api/1253816748055072820?theme=dark" alt="Meu Status">
-
-<!-- spotify -->
-<!-- /spotify -->
 
 ---
 

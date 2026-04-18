@@ -34,3 +34,7 @@ https://oneflowweb.vercel.app
 ### O Que Estou Ouvindo Agora
 
 <img src="https://lanyard.cnrad.dev/api/1253816748055072820?theme=dark" alt="Meu Status">
+
+<p align="center">
+  <i>"I edit some videos, do some really crazy design and program some stuff."</i><br>
+</p>

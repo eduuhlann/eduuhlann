@@ -5,13 +5,13 @@
 
 ### Criador Do OneFlow & Front-End Na Veia
 
----
+<img src="https://i.imgur.com/lTEr4PY.gif" width="200" align="right">
 
 #### Acesse O OneFlow
 
 > Meu primeiro projeto oficial
 
-https://oneflowweb.vercel.app  
+https://oneflowweb.vercel.app
 
 ### Linguagens Que Domino
 
@@ -32,7 +32,5 @@ https://oneflowweb.vercel.app
 ---
 
 ### O Que Estou Ouvindo Agora
-
-<img src="https://i.imgur.com/lTEr4PY.gif" width="260" align="right">
 
 <img src="https://lanyard.cnrad.dev/api/1253816748055072820?theme=dark" alt="Meu Status">

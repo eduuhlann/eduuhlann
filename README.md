@@ -1,4 +1,5 @@
-<img src="https://cdn.discordapp.com/attachments/1469696843779674306/1494100677583179927/Banner-Template-17_1.png?ex=69e16130&is=69e00fb0&hm=61caea528450fb88fce46119b69760fd333ec37d0cdaba1d6ef9a89212253d5e&" alt="Banner eduuhlann" width="100%">
+<p align="center">
+  <img src="https://i.imgur.com/8trwqrU.png" alt="Banner eduuhlann" width="100%">
 </p>
 
 # Eai, eu sou eduuhlann
